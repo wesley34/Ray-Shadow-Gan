@@ -1,0 +1,3 @@
+Colab version [Released]
+Python version [TBC]
+Still on-processing for training and finding data ...
