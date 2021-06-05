@@ -1,3 +1,3 @@
-Colab version [Released]
-Python version [TBC]
-Still on-processing for training and finding data ...
+<br> Colab version [Released]
+<br> Python version [TBC]
+<br> Still on-processing for training and finding data ...
